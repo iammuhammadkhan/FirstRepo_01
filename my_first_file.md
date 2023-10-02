@@ -1,4 +1,4 @@
-This is a read me file
+This is a special file
 
 Learn as much as you can.
 
